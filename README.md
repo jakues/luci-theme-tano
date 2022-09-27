@@ -5,7 +5,7 @@ This theme is the official theme of the LuCI web configuration interface for [Ta
 
 This theme is intended to use [forked LuCI version](https://github.com/tano-systems/luci) by Tano Systems which has a some differences in HTML markup. Therefore, this theme may not work correctly with the [official LuCI](https://github.com/openwrt/luci) and/or official [OpenWrt](https://github.com/openwrt/openwrt) builds.
 
-The BitBake recipe for this theme can be founded in the [meta-tanowrt](https://github.com/tano-systems/meta-tanowrt/blob/master/meta-tanowrt/recipes-extended/luci-extra/luci-theme-tano.bb) OpenEmbedded layer repository.
+<!-- The BitBake recipe for this theme can be founded in the [meta-tanowrt](https://github.com/tano-systems/meta-tanowrt/blob/master/meta-tanowrt/recipes-extended/luci-extra/luci-theme-tano.bb) OpenEmbedded layer repository.
 
 ## Development prerequisites
 
@@ -65,7 +65,7 @@ To build a tarball that includes all theme files you have to run this command
 npm run bundle
 ```
 
-After a tarball get built it will be placed into `bundle` directory.
+After a tarball get built it will be placed into `bundle` directory. -->
 
 ## Screenshots
 
